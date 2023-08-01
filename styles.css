@@ -68,3 +68,15 @@ footer {
   flex-direction: column;
   text-align: center;
 }
+
+footer button {
+  border-radius: 15px;
+  margin: 10px;
+  width: 10rem;
+  height: 50px;
+  align-self: center;
+}
+
+footer .github-img {
+  max-width: 5rem;
+}
